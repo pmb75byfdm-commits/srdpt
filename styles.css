@@ -314,6 +314,7 @@ section[id]{scroll-margin-top:calc(var(--hdr) + 8px)}
 .look-grid .look-item:nth-child(7){grid-column:1/7}
 .look-grid .look-item:nth-child(8){grid-column:8/13;margin-top:clamp(40px,7vw,90px)}
 .look-grid .look-item:nth-child(9){grid-column:2/7;margin-top:clamp(10px,2vw,24px)}
+.look-grid .look-item:nth-child(10){grid-column:1/7;margin-top:clamp(26px,4vw,56px)}
 
 .look-outro{grid-column:8/13;align-self:end;max-width:320px;padding:0 0 clamp(6px,2vw,28px)}
 .look-outro-title{
